@@ -23,3 +23,9 @@ body {
 h1 {
     font-size: 200px;
 }
+
+.btn {
+    margin-top: 100px;
+    font-size: 30px;
+    padding: 20px 25px;
+}
